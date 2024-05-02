@@ -1,0 +1,24 @@
+{
+  "name": "aulappi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiroli",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnTiroli/AulaPPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnnTiroli/AulaPPI/issues"
+  },
+  "homepage": "https://github.com/JohnnTiroli/AulaPPI#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
